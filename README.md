@@ -64,7 +64,6 @@ A standardized guide to the employee onboarding process, featuring:
 I would love to hear from you! Feel free to reach out if you have any questions, feedback, or opportunities:
 
 - **Email:** [mc171002.work@gmail.com](mailto:mc171002.work@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - **GitHub:** [github.com/mahasweta-chatterjee](https://github.com/mahasweta-chatterjee)
 
 ---
